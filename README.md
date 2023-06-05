@@ -17,6 +17,6 @@ Other wish your can simply run "php artisan migrate to start with fresh database
 3. Image Gallery
 
 #Images
-![Image Description](./1.jpeg)
+![Image Description](./0.jpeg)
 ![Image Description](./2.jpeg)
 ![Image Description](./3.jpeg)
